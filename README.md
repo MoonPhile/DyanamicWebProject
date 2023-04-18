@@ -1,2 +1,2 @@
 # DyanamicWebProject
-나 공부하려고 만든거
+MVC패턴 업그레이드 연습

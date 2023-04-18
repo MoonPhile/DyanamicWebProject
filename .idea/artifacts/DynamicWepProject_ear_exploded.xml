@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="DynamicWepProject:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DynamicWepProject_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DynamicWepProject/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
